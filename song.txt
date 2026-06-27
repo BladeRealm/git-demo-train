@@ -5,12 +5,7 @@ standing strong
 
 Form the lines
 Shield by shield
-<<<<<<< HEAD
 Side by side
 We're marching into destiny
+Wait a minute
 -----------------------------------
-=======
-
-some content
-and here!
->>>>>>> parent of 4a9a295 (added new lines)
